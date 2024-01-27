@@ -1,5 +1,13 @@
 # FixTextWithNoRegrets
 
+Description 
+
+Life moves pretty fast , if you don't stop, and look around once in a while, you probably will make a spelling error. Make grammatical a thing of the past with just another text editor!
+
+Demo 
+
+
+
 User Story
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
@@ -30,3 +38,8 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
+
+Acknowledgements 
+
+As always thank you to Kai, Karl, my group mates, youtube walk throughs, and the almighty google.
+
